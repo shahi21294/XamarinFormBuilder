@@ -1,0 +1,11 @@
+G:\Project\Xamarin\FormBuilder\FormBuilder\FormBuilder\FormBuilder\bin\Debug\netstandard2.0\FormBuilder.deps.json
+G:\Project\Xamarin\FormBuilder\FormBuilder\FormBuilder\FormBuilder\bin\Debug\netstandard2.0\FormBuilder.dll
+G:\Project\Xamarin\FormBuilder\FormBuilder\FormBuilder\FormBuilder\bin\Debug\netstandard2.0\FormBuilder.pdb
+G:\Project\Xamarin\FormBuilder\FormBuilder\FormBuilder\FormBuilder\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Project\Xamarin\FormBuilder\FormBuilder\FormBuilder\FormBuilder\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Project\Xamarin\FormBuilder\FormBuilder\FormBuilder\FormBuilder\obj\Debug\netstandard2.0\FormBuilder.csproj.CoreCompileInputs.cache
+G:\Project\Xamarin\FormBuilder\FormBuilder\FormBuilder\FormBuilder\obj\Debug\netstandard2.0\FormBuilder.AssemblyInfoInputs.cache
+G:\Project\Xamarin\FormBuilder\FormBuilder\FormBuilder\FormBuilder\obj\Debug\netstandard2.0\FormBuilder.AssemblyInfo.cs
+G:\Project\Xamarin\FormBuilder\FormBuilder\FormBuilder\FormBuilder\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Project\Xamarin\FormBuilder\FormBuilder\FormBuilder\FormBuilder\obj\Debug\netstandard2.0\FormBuilder.dll
+G:\Project\Xamarin\FormBuilder\FormBuilder\FormBuilder\FormBuilder\obj\Debug\netstandard2.0\FormBuilder.pdb

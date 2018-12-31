@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:FormBuilder"
+             x:Class="FormBuilder.MainPage">
+
+    <StackLayout>
+        <StackLayout Orientation="Vertical">
+            <Entry Placeholder="Name" Text="{Binding Name}" />
+            <Entry Placeholder="Family" Text="{Binding Family}" />
+            <Picker Title="Gender" SelectedIndex="{Binding Gender}" >
+                <Picker.Items>
+                    <x:String>Male</x:String>
+                    <x:String>Female</x:String>
+                </Picker.Items>
+            </Picker>
+            <Entry Placeholder="Age" Text="{Binding Age}" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
